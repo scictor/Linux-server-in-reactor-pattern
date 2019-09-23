@@ -1,0 +1,84 @@
+[Dec  1 2015][00:16:47] pid is [3226] filename is [test.c],fun is [work], at line[39] , debug_info: wwwwwww3
+[Dec  1 2015][00:16:47] pid is [3226] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 3
+[Dec  1 2015][00:16:47] pid is [3226] filename is [test.c],fun is [work], at line[36] , debug_info: sssssssssss2
+[Dec  1 2015][00:16:47] pid is [3226] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 2
+[Dec  1 2015][00:16:47] pid is [3226] filename is [test.c],fun is [work], at line[33] , debug_info: aaaaaaaaaaaa 1
+[Dec  1 2015][00:16:47] pid is [3226] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 1
+[Dec  1 2015][00:16:47] pid is [3225] filename is [test.c],fun is [work], at line[39] , debug_info: wwwwwww3
+[Dec  1 2015][00:16:47] pid is [3225] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 3
+[Dec  1 2015][00:16:47] pid is [3225] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 0
+[Dec  1 2015][00:16:47] pid is [3225] filename is [test.c],fun is [work], at line[33] , debug_info: aaaaaaaaaaaa 1
+[Dec  1 2015][00:16:47] pid is [3225] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 1
+[Dec  1 2015][00:16:47] pid is [3225] filename is [test.c],fun is [work], at line[36] , debug_info: sssssssssss2
+[Dec  1 2015][00:16:47] pid is [3225] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 2
+[Dec  1 2015][00:16:47] pid is [3226] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 0
+[Dec  1 2015][00:16:47] pid is [3224] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 0
+[Dec  1 2015][00:16:47] pid is [3224] filename is [test.c],fun is [work], at line[33] , debug_info: aaaaaaaaaaaa 1
+[Dec  1 2015][00:16:47] pid is [3224] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 1
+[Dec  1 2015][00:16:47] pid is [3224] filename is [test.c],fun is [work], at line[39] , debug_info: wwwwwww3
+[Dec  1 2015][00:16:47] pid is [3224] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 3
+[Dec  1 2015][00:16:47] pid is [3224] filename is [test.c],fun is [work], at line[36] , debug_info: sssssssssss2
+[Dec  1 2015][00:16:47] pid is [3224] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 2
+[Dec  1 2015][00:16:47] pid is [3223] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 0
+[Dec  1 2015][00:16:47] pid is [3223] filename is [test.c],fun is [work], at line[33] , debug_info: aaaaaaaaaaaa 1
+[Dec  1 2015][00:16:47] pid is [3223] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 1
+[Dec  1 2015][00:16:47] pid is [3223] filename is [test.c],fun is [work], at line[36] , debug_info: sssssssssss2
+[Dec  1 2015][00:16:47] pid is [3223] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 2
+[Dec  1 2015][00:16:47] pid is [3223] filename is [test.c],fun is [work], at line[39] , debug_info: wwwwwww3
+[Dec  1 2015][00:16:47] pid is [3223] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 3
+[Sep 22 2019][17:02:01] pid is [5717] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 0
+[Sep 22 2019][17:02:01] pid is [5716] filename is [test.c],fun is [work], at line[39] , debug_info: wwwwwww3
+[Sep 22 2019][17:02:01] pid is [5718] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 0
+[Sep 22 2019][17:02:01] pid is [5716] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 3
+[Sep 22 2019][17:02:01] pid is [5719] filename is [test.c],fun is [work], at line[33] , debug_info: aaaaaaaaaaaa 1
+[Sep 22 2019][17:02:01] pid is [5717] filename is [test.c],fun is [work], at line[33] , debug_info: aaaaaaaaaaaa 1
+[Sep 22 2019][17:02:01] pid is [5719] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 1
+[Sep 22 2019][17:02:01] pid is [5717] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 1
+[Sep 22 2019][17:02:01] pid is [5719] filename is [test.c],fun is [work], at line[36] , debug_info: sssssssssss2
+[Sep 22 2019][17:02:01] pid is [5718] filename is [test.c],fun is [work], at line[33] , debug_info: aaaaaaaaaaaa 1
+[Sep 22 2019][17:02:01] pid is [5716] filename is [test.c],fun is [work], at line[36] , debug_info: sssssssssss2
+[Sep 22 2019][17:02:01] pid is [5719] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 2
+[Sep 22 2019][17:02:01] pid is [5718] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 1
+[Sep 22 2019][17:02:01] pid is [5716] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 2
+[Sep 22 2019][17:02:01] pid is [5718] filename is [test.c],fun is [work], at line[36] , debug_info: sssssssssss2
+[Sep 22 2019][17:02:01] pid is [5716] filename is [test.c],fun is [work], at line[33] , debug_info: aaaaaaaaaaaa 1
+[Sep 22 2019][17:02:01] pid is [5716] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 1
+[Sep 22 2019][17:02:01] pid is [5718] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 2
+[Sep 22 2019][17:02:01] pid is [5716] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 0
+[Sep 22 2019][17:02:01] pid is [5718] filename is [test.c],fun is [work], at line[39] , debug_info: wwwwwww3
+[Sep 22 2019][17:02:01] pid is [5718] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 3
+[Sep 22 2019][17:02:01] pid is [5717] filename is [test.c],fun is [work], at line[39] , debug_info: wwwwwww3
+[Sep 22 2019][17:02:01] pid is [5717] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 3
+[Sep 22 2019][17:02:01] pid is [5717] filename is [test.c],fun is [work], at line[36] , debug_info: sssssssssss2
+[Sep 22 2019][17:02:01] pid is [5717] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 2
+[Sep 22 2019][17:02:01] pid is [5719] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 0
+[Sep 22 2019][17:02:01] pid is [5719] filename is [test.c],fun is [work], at line[39] , debug_info: wwwwwww3
+[Sep 22 2019][17:02:01] pid is [5719] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 3
+[Sep 22 2019][17:02:01] pid is [6603] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 0
+[Sep 22 2019][17:02:01] pid is [6603] filename is [test.c],fun is [work], at line[36] , debug_info: sssssssssss2
+[Sep 22 2019][17:02:01] pid is [6603] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 2
+[Sep 22 2019][17:02:01] pid is [6603] filename is [test.c],fun is [work], at line[39] , debug_info: wwwwwww3
+[Sep 22 2019][17:02:01] pid is [6603] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 3
+[Sep 22 2019][17:02:01] pid is [6604] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 0
+[Sep 22 2019][17:02:01] pid is [6603] filename is [test.c],fun is [work], at line[33] , debug_info: aaaaaaaaaaaa 1
+[Sep 22 2019][17:02:01] pid is [6603] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 1
+[Sep 22 2019][17:02:01] pid is [6604] filename is [test.c],fun is [work], at line[36] , debug_info: sssssssssss2
+[Sep 22 2019][17:02:01] pid is [6604] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 2
+[Sep 22 2019][17:02:01] pid is [6604] filename is [test.c],fun is [work], at line[39] , debug_info: wwwwwww3
+[Sep 22 2019][17:02:01] pid is [6604] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 3
+[Sep 22 2019][17:02:01] pid is [6604] filename is [test.c],fun is [work], at line[33] , debug_info: aaaaaaaaaaaa 1
+[Sep 22 2019][17:02:01] pid is [6604] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 1
+[Sep 22 2019][17:02:01] pid is [6605] filename is [test.c],fun is [work], at line[33] , debug_info: aaaaaaaaaaaa 1
+[Sep 22 2019][17:02:01] pid is [6605] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 1
+[Sep 22 2019][17:02:01] pid is [6605] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 0
+[Sep 22 2019][17:02:01] pid is [6605] filename is [test.c],fun is [work], at line[36] , debug_info: sssssssssss2
+[Sep 22 2019][17:02:01] pid is [6605] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 2
+[Sep 22 2019][17:02:01] pid is [6605] filename is [test.c],fun is [work], at line[39] , debug_info: wwwwwww3
+[Sep 22 2019][17:02:01] pid is [6605] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 3
+[Sep 22 2019][17:02:01] pid is [6606] filename is [test.c],fun is [work], at line[33] , debug_info: aaaaaaaaaaaa 1
+[Sep 22 2019][17:02:01] pid is [6606] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 1
+[Sep 22 2019][17:02:01] pid is [6606] filename is [test.c],fun is [work], at line[36] , debug_info: sssssssssss2
+[Sep 22 2019][17:02:01] pid is [6606] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 2
+[Sep 22 2019][17:02:01] pid is [6606] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 0
+[Sep 22 2019][17:02:01] pid is [6606] filename is [test.c],fun is [work], at line[39] , debug_info: wwwwwww3
+[Sep 22 2019][17:02:01] pid is [6606] filename is [test.c],fun is [work], at line[42] , debug_info: test thread 3
