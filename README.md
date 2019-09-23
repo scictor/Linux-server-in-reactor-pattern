@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Linux Server Framework
 ## 主要模块 /communicate
 
@@ -19,3 +20,7 @@
 ## 连接池conn_pool
 * 连接池及队列
 * 使用回调方式
+=======
+# Linux-server-in-reactor-pattern
+pull from wsrspirit.
+>>>>>>> dbe1500bc8dc2d9c67d480b75478519421a9a012
